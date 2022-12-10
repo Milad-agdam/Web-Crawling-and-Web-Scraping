@@ -1,1 +1,2 @@
 
+# Apply automatically for jobs
